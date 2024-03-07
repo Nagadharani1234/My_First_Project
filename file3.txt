@@ -1,1 +1,3 @@
 # This is a text file for the reference
+# This file is used to represent textual data
+
